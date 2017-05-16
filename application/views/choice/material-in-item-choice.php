@@ -30,8 +30,7 @@
 
 </div>
 </fieldset>
-
-<br/>
+<div class="fieldset-spacer"></div>
  <fieldset> 
 
   <legend>Material Out Item Choice</legend>
@@ -82,7 +81,7 @@
 
 </fieldset>  
 
-  <br/>
+  <div class="fieldset-spacer"></div>
 <fieldset>
 
   <div class="form-group">

@@ -15,7 +15,7 @@ if(isset($css_files)){
     <?php endforeach; 
  }
 ?>
- <link href="<?=base_url('css/sb-admin.css').'?124234'?>" rel="stylesheet">
+ <link href="<?=base_url('css/sb-admin.css').'?1313'?>" rel="stylesheet">
  <script src="<?=base_url('js/jquery.js');?>"></script>
  <script src="<?=base_url('js/bootstrap.min.js');?>"></script>
 
@@ -40,7 +40,7 @@ a:hover
 	text-decoration: underline;
 }
 .form-control {
-  height: 36px !important;
+  height: 29px !important;
 }
 
 .cancel-reason.form-control {

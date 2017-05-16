@@ -45,7 +45,7 @@
 
 </fieldset>
 
- <br/>
+<div class="fieldset-spacer"></div>
 
 
 
@@ -95,7 +95,7 @@
 
 </fieldset>
 
-<br/>
+<div class="fieldset-spacer"></div>
 
 <!-- ------------- -->
 
@@ -149,7 +149,7 @@
 
        <td><div id="qc_total" class="color_red">0</div></td>
 
-       <td><textarea name="qc_remarks" rows="3"></textarea></td>
+       <td><textarea name="qc_remarks" rows="0"></textarea></td>
 
      </tr>
 
@@ -159,7 +159,7 @@
 
 </fieldset>  
 
-<br/>
+<div class="fieldset-spacer"></div>
 
 <fieldset> 
 
@@ -225,7 +225,7 @@
 
        <td><input type="text" class="form-control"  name="labour_party"></td>
 
-       <td><textarea name="qc_remarks" rows="3"></textarea></td>
+       <td><textarea name="qc_remarks" rows="0"></textarea></td>
 
      </tr>
 
@@ -234,7 +234,7 @@
   </div>
 
 </fieldset>  
-<br/>
+<div class="fieldset-spacer"></div>
 <fieldset>
 
   <legend>CMR Details</legend>
@@ -327,7 +327,7 @@
 
 </fieldset>
 
-<br/>
+<div class="fieldset-spacer"></div>
 
 <fieldset>
 
@@ -389,7 +389,7 @@
 
 </fieldset>
 
-<br/>
+<div class="fieldset-spacer"></div>
 
 <div class="pull-right">
 

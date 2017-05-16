@@ -569,6 +569,7 @@ legend {
     border-radius: 0px;
 
     font-size: 16px;
+    margin:0px;
 
 }
 
@@ -600,4 +601,11 @@ fieldset {
 
     color:red;
 
+}
+.fieldset-spacer {
+    margin-bottom: 6px;
+}
+
+.form-group {
+    margin-bottom: 3px;
 }
